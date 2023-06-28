@@ -1,0 +1,15 @@
+/Users/urielprocopio/Projects/ListaExercicios/Aluno/bin/Debug/net7.0/Aluno
+/Users/urielprocopio/Projects/ListaExercicios/Aluno/bin/Debug/net7.0/Aluno.deps.json
+/Users/urielprocopio/Projects/ListaExercicios/Aluno/bin/Debug/net7.0/Aluno.runtimeconfig.json
+/Users/urielprocopio/Projects/ListaExercicios/Aluno/bin/Debug/net7.0/Aluno.dll
+/Users/urielprocopio/Projects/ListaExercicios/Aluno/bin/Debug/net7.0/Aluno.pdb
+/Users/urielprocopio/Projects/ListaExercicios/Aluno/obj/Debug/net7.0/Aluno.csproj.AssemblyReference.cache
+/Users/urielprocopio/Projects/ListaExercicios/Aluno/obj/Debug/net7.0/Aluno.GeneratedMSBuildEditorConfig.editorconfig
+/Users/urielprocopio/Projects/ListaExercicios/Aluno/obj/Debug/net7.0/Aluno.AssemblyInfoInputs.cache
+/Users/urielprocopio/Projects/ListaExercicios/Aluno/obj/Debug/net7.0/Aluno.AssemblyInfo.cs
+/Users/urielprocopio/Projects/ListaExercicios/Aluno/obj/Debug/net7.0/Aluno.csproj.CoreCompileInputs.cache
+/Users/urielprocopio/Projects/ListaExercicios/Aluno/obj/Debug/net7.0/Aluno.dll
+/Users/urielprocopio/Projects/ListaExercicios/Aluno/obj/Debug/net7.0/refint/Aluno.dll
+/Users/urielprocopio/Projects/ListaExercicios/Aluno/obj/Debug/net7.0/Aluno.pdb
+/Users/urielprocopio/Projects/ListaExercicios/Aluno/obj/Debug/net7.0/Aluno.genruntimeconfig.cache
+/Users/urielprocopio/Projects/ListaExercicios/Aluno/obj/Debug/net7.0/ref/Aluno.dll

@@ -1,0 +1,15 @@
+/Users/urielprocopio/Projects/ListaExercicios/Conversao/bin/Debug/net7.0/Conversao
+/Users/urielprocopio/Projects/ListaExercicios/Conversao/bin/Debug/net7.0/Conversao.deps.json
+/Users/urielprocopio/Projects/ListaExercicios/Conversao/bin/Debug/net7.0/Conversao.runtimeconfig.json
+/Users/urielprocopio/Projects/ListaExercicios/Conversao/bin/Debug/net7.0/Conversao.dll
+/Users/urielprocopio/Projects/ListaExercicios/Conversao/bin/Debug/net7.0/Conversao.pdb
+/Users/urielprocopio/Projects/ListaExercicios/Conversao/obj/Debug/net7.0/Conversao.csproj.AssemblyReference.cache
+/Users/urielprocopio/Projects/ListaExercicios/Conversao/obj/Debug/net7.0/Conversao.GeneratedMSBuildEditorConfig.editorconfig
+/Users/urielprocopio/Projects/ListaExercicios/Conversao/obj/Debug/net7.0/Conversao.AssemblyInfoInputs.cache
+/Users/urielprocopio/Projects/ListaExercicios/Conversao/obj/Debug/net7.0/Conversao.AssemblyInfo.cs
+/Users/urielprocopio/Projects/ListaExercicios/Conversao/obj/Debug/net7.0/Conversao.csproj.CoreCompileInputs.cache
+/Users/urielprocopio/Projects/ListaExercicios/Conversao/obj/Debug/net7.0/Conversao.dll
+/Users/urielprocopio/Projects/ListaExercicios/Conversao/obj/Debug/net7.0/refint/Conversao.dll
+/Users/urielprocopio/Projects/ListaExercicios/Conversao/obj/Debug/net7.0/Conversao.pdb
+/Users/urielprocopio/Projects/ListaExercicios/Conversao/obj/Debug/net7.0/Conversao.genruntimeconfig.cache
+/Users/urielprocopio/Projects/ListaExercicios/Conversao/obj/Debug/net7.0/ref/Conversao.dll

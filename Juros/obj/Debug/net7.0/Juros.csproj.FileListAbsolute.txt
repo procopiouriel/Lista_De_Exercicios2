@@ -1,0 +1,15 @@
+/Users/urielprocopio/Projects/ListaExercicios/Juros/bin/Debug/net7.0/Juros
+/Users/urielprocopio/Projects/ListaExercicios/Juros/bin/Debug/net7.0/Juros.deps.json
+/Users/urielprocopio/Projects/ListaExercicios/Juros/bin/Debug/net7.0/Juros.runtimeconfig.json
+/Users/urielprocopio/Projects/ListaExercicios/Juros/bin/Debug/net7.0/Juros.dll
+/Users/urielprocopio/Projects/ListaExercicios/Juros/bin/Debug/net7.0/Juros.pdb
+/Users/urielprocopio/Projects/ListaExercicios/Juros/obj/Debug/net7.0/Juros.csproj.AssemblyReference.cache
+/Users/urielprocopio/Projects/ListaExercicios/Juros/obj/Debug/net7.0/Juros.GeneratedMSBuildEditorConfig.editorconfig
+/Users/urielprocopio/Projects/ListaExercicios/Juros/obj/Debug/net7.0/Juros.AssemblyInfoInputs.cache
+/Users/urielprocopio/Projects/ListaExercicios/Juros/obj/Debug/net7.0/Juros.AssemblyInfo.cs
+/Users/urielprocopio/Projects/ListaExercicios/Juros/obj/Debug/net7.0/Juros.csproj.CoreCompileInputs.cache
+/Users/urielprocopio/Projects/ListaExercicios/Juros/obj/Debug/net7.0/Juros.dll
+/Users/urielprocopio/Projects/ListaExercicios/Juros/obj/Debug/net7.0/refint/Juros.dll
+/Users/urielprocopio/Projects/ListaExercicios/Juros/obj/Debug/net7.0/Juros.pdb
+/Users/urielprocopio/Projects/ListaExercicios/Juros/obj/Debug/net7.0/Juros.genruntimeconfig.cache
+/Users/urielprocopio/Projects/ListaExercicios/Juros/obj/Debug/net7.0/ref/Juros.dll

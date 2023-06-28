@@ -1,0 +1,15 @@
+/Users/urielprocopio/Projects/ListaExercicios/EmprestimoLivro/obj/Debug/net7.0/EmprestimoLivro.csproj.AssemblyReference.cache
+/Users/urielprocopio/Projects/ListaExercicios/EmprestimoLivro/obj/Debug/net7.0/EmprestimoLivro.GeneratedMSBuildEditorConfig.editorconfig
+/Users/urielprocopio/Projects/ListaExercicios/EmprestimoLivro/obj/Debug/net7.0/EmprestimoLivro.AssemblyInfoInputs.cache
+/Users/urielprocopio/Projects/ListaExercicios/EmprestimoLivro/obj/Debug/net7.0/EmprestimoLivro.AssemblyInfo.cs
+/Users/urielprocopio/Projects/ListaExercicios/EmprestimoLivro/obj/Debug/net7.0/EmprestimoLivro.csproj.CoreCompileInputs.cache
+/Users/urielprocopio/Projects/ListaExercicios/EmprestimoLivro/bin/Debug/net7.0/EmprestimoLivro
+/Users/urielprocopio/Projects/ListaExercicios/EmprestimoLivro/bin/Debug/net7.0/EmprestimoLivro.deps.json
+/Users/urielprocopio/Projects/ListaExercicios/EmprestimoLivro/bin/Debug/net7.0/EmprestimoLivro.runtimeconfig.json
+/Users/urielprocopio/Projects/ListaExercicios/EmprestimoLivro/bin/Debug/net7.0/EmprestimoLivro.dll
+/Users/urielprocopio/Projects/ListaExercicios/EmprestimoLivro/bin/Debug/net7.0/EmprestimoLivro.pdb
+/Users/urielprocopio/Projects/ListaExercicios/EmprestimoLivro/obj/Debug/net7.0/EmprestimoLivro.dll
+/Users/urielprocopio/Projects/ListaExercicios/EmprestimoLivro/obj/Debug/net7.0/refint/EmprestimoLivro.dll
+/Users/urielprocopio/Projects/ListaExercicios/EmprestimoLivro/obj/Debug/net7.0/EmprestimoLivro.pdb
+/Users/urielprocopio/Projects/ListaExercicios/EmprestimoLivro/obj/Debug/net7.0/EmprestimoLivro.genruntimeconfig.cache
+/Users/urielprocopio/Projects/ListaExercicios/EmprestimoLivro/obj/Debug/net7.0/ref/EmprestimoLivro.dll
